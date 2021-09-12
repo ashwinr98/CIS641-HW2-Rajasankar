@@ -7,4 +7,5 @@
 * Entomology
 
 ## Technical Background
-Experience working with Python on medical data for 2 years.
+Experience working with Python on medical data for 2 year
+.
