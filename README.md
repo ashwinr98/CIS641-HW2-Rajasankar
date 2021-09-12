@@ -7,5 +7,6 @@
 * Entomology
 
 ## Technical Background
-Experience working with Python on medical data for 2 year
-.
+Graduate student at Grand Valley State University. Experience working as a software engineer in the pharmaeceutical domain for 2 years. Skilled in Python, Scala and C++.
+
+[Le meme](https://i.kym-cdn.com/photos/images/original/000/096/044/trollface.jpg)
