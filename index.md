@@ -1,7 +1,6 @@
 <style>
 mark{
-    color:red;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 </style>
 # Ashwin Rajasankar
