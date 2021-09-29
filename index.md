@@ -1,7 +1,13 @@
+<style>
+mark{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+</style>
 # Ashwin Rajasankar
 ## About Me
 
-Graduate student at Grand Valley State University. Experience working as a software engineer in the pharmaceutical domain for 2 years. Skilled in Python, Scala and C++. 
+<mark>Graduate student at Grand Valley State University. Experience working as a software engineer in the pharmaceutical domain for 2 years. Skilled in Python, Scala and C++. </mark>
 
 ## Interests
 
@@ -9,3 +15,4 @@ Graduate student at Grand Valley State University. Experience working as a softw
 * Natural language processing
 * Software engineering
 
+## My Projects
