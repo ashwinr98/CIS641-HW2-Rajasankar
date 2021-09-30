@@ -24,7 +24,7 @@ heads{
 * [Insect detection system](https://github.com/ashwinr98/GVSU-CIS641-Tropicana)
     * An application to identify insects and pests. The application takes the input of a image from the user and returns the insect name and other information related to the bug.
     * Estimated completion (December 2021)
-    * Github page
+    * [Github pages](https://ashwinr98.github.io/GVSU-CIS641-Tropicana/)
 
 * [EDA on Haberman's survival dataset](https://github.com/ashwinr98/eda_habermandataset)
     * Performed EDA on Haberman survivor dataset using Python.  
