@@ -21,8 +21,10 @@ heads{
 
 <heads>My Projects</heads>
 
-* [Insect detection system](https://github.com/ashwinr98/GVSU-CIS641-Tropicana)
+* [Insect ID detection system](https://github.com/ashwinr98/GVSU-CIS641-Tropicana)
     * An application to identify insects and pests. The application takes the input of a image from the user and returns the insect name and other information related to the bug.
+    * In the project, Django will be used for creating the frontend and backend. The user will have an interface with an option to upload an image. Once the image is uploaded, the image classifier will give a prediction of the insect's name along with the accuracy of the prediction. Details about the insect's favorite plants and ways to repel the insect will also be displayed to the user.
+    * The project aims to assist farmers, gardeners, bug enthusiasts and nature lovers who want to identify a bug.
     * Estimated completion (December 2021)
     * [Github pages](https://ashwinr98.github.io/GVSU-CIS641-Tropicana/)
 
